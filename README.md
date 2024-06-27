@@ -1,3 +1,5 @@
-Berikut kami lampirkan code yang kami gunakan. 
+CNN - OpenCV 
+Implementation of OpenCV and CNN-Keras in Detecting Plastic Waste 
 
-CNN - OpenCV
+
+Here we attach the code that we used. 
